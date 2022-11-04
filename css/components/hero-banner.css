@@ -1,0 +1,25 @@
+.hero-banner {
+  /* background-color: #9378BB; */
+  background-color:#9378BB;
+  padding: 60px;
+  margin-top: 0;
+  margin-bottom: 40px;
+}
+
+.text-banner a {
+  background-color: #5E0A69;
+  text-align: center;
+  color: white;
+  padding: 20px;
+  border-radius: 30px;
+}
+
+.text-banner {
+  margin: 0 auto;
+  width: 400px;
+  text-align: center;
+}
+
+.text-banner h1 {
+  margin-bottom:50px;
+}

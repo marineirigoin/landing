@@ -1,0 +1,46 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@700&display=swap');
+
+@import url('components/hero-banner.css');
+@import url('components/cards.css');
+@import url('components/footer.css');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+
+/* Utilities */
+.container {
+  text-align: center;
+  color:antiquewhite;
+}
+
+body {
+  margin: 0;
+  font-family: Nanum Myeongjo;
+  color: #600a6b;
+}
+
+p {
+  font-size: 30px;
+  color: #9378BB;
+}
+
+h1 {
+  color: #5E0A69;
+  font-size: 45px;
+}
+
+h2 {
+  color: #FFFFFF;
+}
+
+a {
+  text-decoration: none;
+}
+
+.gif {
+  width: 30px;
+  text-align: center;
+}
+/* Custom design below! */

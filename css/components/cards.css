@@ -1,0 +1,49 @@
+.palette-card {
+background-color: #855C83;
+margin: 60px;
+padding: 80px;
+font-size: 30px;
+box-shadow: 5px 5px 15px 0px #6B2181;
+border-radius: 10px;
+
+}
+
+.palette-card:hover{
+  background-color: #67436F;
+}
+
+.icons-card {
+background-color: #67436F;
+margin: 60px;
+padding: 80px;
+font-size: 30px;
+box-shadow: 5px 5px 15px 0px #6B2181;
+border-radius: 10px;
+}
+
+.icons-card:hover{
+  background-color: #D6ACEC;
+}
+
+.song-card {
+background-color: #D6ACEC;
+margin: 60px;
+padding: 80px;
+font-size: 30px;
+box-shadow: 5px 5px 15px 0px #6B2181;
+border-radius: 10px;
+
+}
+
+.song-card:hover{
+  background-color: #855C83;
+}
+
+.cards {
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+  margin-top: 60px;
+}
